@@ -51,4 +51,10 @@ public class NewMain {
         
         // ta chơi với cách 1 với 2 
     
+    
+    //2 máy so sánh dùm  expected và actual cho mình luôn
+    //nếu tất cả các tình huống sài đều khớp  e == a ---> xanh
+    // nếu chỉ có ít nhất 1 cặp e != a ---> đỏ hàm sai
+    //xài thư viện file.jar
+    //thư viện gọi chung là UNIT TEST
 }
