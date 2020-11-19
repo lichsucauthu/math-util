@@ -29,6 +29,7 @@ public class NewMain {
         //
         //e: ném về ngoại lệ illegalArgumentException nếu giai thừa -5
         System.out.println("-5"+MathUtility.getFactorial(-5));
+        System.out.println("CI pratice");
         
        
        
