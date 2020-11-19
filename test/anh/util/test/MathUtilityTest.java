@@ -35,7 +35,7 @@ public class MathUtilityTest {
         assertEquals(720, MathUtility.getFactorial(6));
         assertEquals(6, MathUtility.getFactorial(3));
         assertEquals(1, MathUtility.getFactorial(0));
-        assertEquals(2, MathUtility.getFactorial(1));
+        assertEquals(1, MathUtility.getFactorial(1));
         //mac dinh code test doc lap voi code chinh
         //doc lap voi qua trinh clean and build 
         //dung cod ban xanh hay do mien la error cu phap ban luon dong goi hay build ra dc file .jar .war
